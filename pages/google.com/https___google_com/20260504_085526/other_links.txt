@@ -1,0 +1,10 @@
+/advanced_search?hl=en&amp;authuser=0
+/intl/en/about.html
+/intl/en/ads/
+/intl/en/policies/privacy/
+/intl/en/policies/terms/
+/services/
+https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.com/&amp;ec=GAZAmgQ
+https://mail.google.com/mail/&amp;ogbl
+https://www.google.com/imghp?hl=en&amp;ogbl
+https://www.google.com/intl/en/about/products
